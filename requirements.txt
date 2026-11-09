@@ -1,0 +1,9 @@
+qdrant-client
+fastembed
+datasets
+transformers
+numpy
+pandas
+langchain
+langchain-openai
+langgraph
